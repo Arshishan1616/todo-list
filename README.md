@@ -25,13 +25,13 @@ Users can add, edit, complete, and delete tasks — with tasks stored in local s
 
 🖥️ Demo
 
-🔗 Live Demo: https://your-username.github.io/todo-list/
+🔗 Live Demo: https://Arshishan1616.github.io/todo-list/
 
 ⚙️ Installation & Usage
 
 Clone the repository:
 
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/Arshishan1616/todo-list.git
 
 
 Open the project folder:
